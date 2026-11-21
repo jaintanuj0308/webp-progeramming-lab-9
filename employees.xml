@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Alice Johnson</name>
+        <department>Engineering</department>
+        <designation>Software Engineer</designation>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <id>102</id>
+        <name>Bob Smith</name>
+        <department>Marketing</department>
+        <designation>Marketing Specialist</designation>
+        <salary>62000</salary>
+    </employee>
+    <employee>
+        <id>103</id>
+        <name>Carol Lee</name>
+        <department>Human Resources</department>
+        <designation>HR Manager</designation>
+        <salary>68000</salary>
+    </employee>
+    <employee>
+        <id>104</id>
+        <name>David Patel</name>
+        <department>Finance</department>
+        <designation>Financial Analyst</designation>
+        <salary>71000</salary>
+    </employee>
+    <employee>
+        <id>105</id>
+        <name>Eve Martinez</name>
+        <department>Sales</department>
+        <designation>Sales Executive</designation>
+        <salary>65000</salary>
+    </employee>
+</employees>
